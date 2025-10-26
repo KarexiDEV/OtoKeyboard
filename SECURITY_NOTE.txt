@@ -1,0 +1,27 @@
+================================================
+SECURITY NOTE (Please Read)
+================================================
+
+Hello!
+
+When you try to run the program (.exe file), Windows may show you a security warning (SmartScreen or UAC) stating "Unknown Publisher" or "Windows protected your PC".
+
+THIS IS NOT AN ERROR.
+
+This warning appears because the program is made by an independent developer and does not yet have a digital code signing certificate.
+
+Our program will be signed soon, and this warning will be removed in future versions.
+
+The current version of the program is safe and does not contain any malware.
+
+To bypass the warning and launch the program:
+1. On the blue warning screen, click on "More info".
+2. A "Run anyway" button will appear. Click this button.
+
+The program will then start safely.
+
+If you have any questions or issues, you can contact our support team:
+support@otokeyboard.com
+
+Thank you for your understanding and support,
+KarexiDEV
