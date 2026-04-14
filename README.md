@@ -24,7 +24,7 @@ OtoKeyboard is a powerful text expansion and macro tool designed to make your li
 If you encounter any issues, have a suggestion, or just want to say hello 👋 don’t hesitate to reach out:
 
 - Web: https://otokeyboard.com/support
-- E-mail: support@otokeyboard.com
+- E-mail: contactkarexi@gmail.com
 
 🙏 Thanks for using OtoKeyboard!
 Made with ❤️ by KarexiDEV
