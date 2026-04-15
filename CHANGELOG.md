@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [v1.2.3]
+### Notes
+- Identified issues have been fixed.
+
 ## [v1.2.2]
 ### Notes
 - The application is now completely free.
