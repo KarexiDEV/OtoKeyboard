@@ -36,7 +36,7 @@ All notable changes to this project will be documented in this file.
 - The underlying update functions have been improved.
 - This update is all about giving you more control and a smoother experience. ✨
 - Stay tuned, the next features might surprise you!
-- If you have any issues with the update, please report them to us at https://www.reddit.com/r/OtoKeyboard/ or via email at support@otokeyboard.com.
+- If you have any issues with the update, please report them to us at https://www.reddit.com/r/OtoKeyboard/ or via email at contact@karexi.com.tr
 
 ## [v1.1.8]
 ### Notes
