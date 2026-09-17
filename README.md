@@ -23,8 +23,8 @@ OtoKeyboard is a powerful text expansion and macro tool designed to make your li
 
 If you encounter any issues, have a suggestion, or just want to say hello 👋 don’t hesitate to reach out:
 
-- Web: https://otokeyboard.com/support
-- E-mail: contactkarexi@gmail.com
+- Web: https://otokeyboard.karexi.com.tr/support
+- E-mail: contact@karexi.com.tr
 
 🙏 Thanks for using OtoKeyboard!
 Made with ❤️ by KarexiDEV
